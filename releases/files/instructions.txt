@@ -1,0 +1,7 @@
+1. Save the file to a nice location on your Pi 4.
+2. open Terminal on your Pi 4.
+3. cd into that folder using the command "cd (the location where you saved the files)" without quotes.
+4. Type "sudo bash setup.sh" in the Terminal without quotes.
+5. Put your password if it asks you.
+6. Wait for the process to finish.
+7. Enjoy !
